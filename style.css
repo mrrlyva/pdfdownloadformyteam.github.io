@@ -1,0 +1,65 @@
+body {
+  background-color: white;
+  color: white;
+  background-image: url(https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif);
+}
+div {
+  font-size: 30pt;
+  text-align: center;
+  color: gold;
+}
+.a {
+  width: 25cm;
+  border: 0;
+  height: 2mm;
+  background-color: blue;
+}
+.a1 {
+  height: 3cm;
+}
+.a2 {
+  border: 0;
+  height: 1mm;
+  background-color: cyan;
+}
+.a3 {
+  height: 5cm;
+  display: block;
+  margin: 0 auto;
+}
+.a4 {
+  border: 2mm solid skyblue;
+  display: block;
+  margin: 0 auto;
+  width: 44cm;
+  font-size: 20pt;
+  text-align: left;
+  text-align: left;
+}
+
+.aa {
+  font-size: 25pt;
+  text-align: center;
+}
+h1 {
+  display: block;
+  margin: 0 auto;
+  width: 35cm;
+  border: 2mm solid red;
+  text-align: center;
+  color: rgb(165, 244, 80);
+}
+h1 a:hover {
+  color: blue;
+  text-decoration: underline red;
+}
+h1 a {
+  color: cyan;
+  margin: 3cm;
+  text-decoration: none;
+}
+h2 {
+  text-align: center;
+  font-size: 35pt;
+  margin-top: 1cm;
+}
